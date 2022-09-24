@@ -3,6 +3,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saketh24124&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 
+<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210" align ="left">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketh24124&label=Profile%20views&color=0e75b6&style=flat" alt="saketh24124" /> </p>
 
