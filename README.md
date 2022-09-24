@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saketh Devabattini</h1>
-<h3 align="center">A passionate and Enthusiastic CSE student from India</h3>
+<h3 align="center">A Passionate and Enthusiastic CSE student from India</h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saketh24124&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **saketh24124@gmail.com**
 
-- ⚡ Fun fact **I am a hyperactive Person ;)**
+- ⚡ Fun fact **I'm a Hyperactive Person ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
